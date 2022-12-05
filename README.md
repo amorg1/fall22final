@@ -11,3 +11,5 @@ The main articles I was following to set up the bot were out of date, and since 
 
 Difficulty 3: Command Response
 The last main difficulty I had was in getting my bot to respond to commands. Once I fixed the intents, the bot could read the messages fine, but even though my syntax to set up the commands was correct none of them were triggering. The issue I found was that since i had an on_message event defined, it would only apply the on_message code and not check to see if the message was a command. To fix this I had to add a line stating "await bot.process_commands(message)" at the end of the on_message block.
+
+Hitting these roadblocks was frustrating and took a lot of research and trial and error to solve but I am proud of myself for sticking with it and creating a bot that works the way I intended it to. Maybe next I'll hook it up to a raspberry pi so my friends and I can use the bot without me running the code on my computer!
