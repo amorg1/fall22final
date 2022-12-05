@@ -1,5 +1,5 @@
 # fall22finalpreposal
-Video URL: 
+Video URL: https://temple.zoom.us/rec/share/XpM3YetJ4t-QPaSEG_nFw-nHcoFg8vcwO4iahaYpdfyRfqvUQw6Z2CnZXhrCI9lQ.kyiOda9w54WfqDmD
 
 I feel incredibly proud to say I accomplished all I set out to do with this project. I had 3 main difficulties that I worked through as I went through the project, but all ended up solved in the end.
 
